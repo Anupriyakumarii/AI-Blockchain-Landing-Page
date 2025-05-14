@@ -37,6 +37,7 @@ body {
   color: #ccc;
   line-height: 1.6;
   margin-bottom: 30px;
+  font-family: 'Clash Grotesk', sans-serif;
 }
 
 .buttons {
@@ -66,8 +67,6 @@ body {
 }
 
 .illustration img {
-  /* width: 100%; */
-  /* max-width: 600px; */
   width: 70%;
   height: 100%;
 }
